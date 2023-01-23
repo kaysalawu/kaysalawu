@@ -1,6 +1,5 @@
 
 ## Azure
---------
 
 This is a collection of Azure infrastructure, networking and network security IaC assets.
 
@@ -22,7 +21,6 @@ Virtual Network Manager
 - (Work in progress)
 
 ## GCP
-------
 
 This is a collection of GCP infrastructure, networking and network security IaC assets.
 
