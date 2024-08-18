@@ -18,8 +18,8 @@ This is a collection of terraform codes for deploying Azure networking topologie
 - [2.4. Secured Virtual WAN - Dual Region (Azure FW)](https://github.com/kaysalawu/azure-network-terraform/tree/main/2-virtual-wan/4-vwan-sec-dual-region)
 
 [**3. Virtual Network Manager Labs**](https://github.com/kaysalawu/azure-network-terraform/tree/main/3-network-manager)
-- [3.1. Virtual WAN - Single Region (Azure FW)](https://github.com/kaysalawu/azure-network-terraform/tree/main/3-network-manager/1-hub-spoke-azfw-single-region)
-- [3.2. Virtual WAN - Dual Region (Azure FW)](https://github.com/kaysalawu/azure-network-terraform/tree/main/3-network-manager/2-hub-spoke-azfw-dual-region)
+- [3.1. Secured Hub and Spoke (Virtual Network Manager) - Single Region](https://github.com/kaysalawu/azure-network-terraform/tree/main/3-network-manager/1-hub-spoke-azfw-single-region)
+- [3.2. Secured Hub and Spoke (Virtual Network Manager) - Dual Region](https://github.com/kaysalawu/azure-network-terraform/tree/main/3-network-manager/2-hub-spoke-azfw-dual-region)
 
 
 [**4. General Labs**](https://github.com/kaysalawu/azure-network-terraform/tree/main/4-general)
