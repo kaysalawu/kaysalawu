@@ -3,7 +3,7 @@
 
 This is a collection of terraform codes for deploying Azure networking topologies.
 
-**Azure Network Topology - [Terraform Examples](https://github.com/kaysalawu/azure-network-terraform)**
+**Azure Network Topology - [Home](https://github.com/kaysalawu/azure-network-terraform)**
 
 [**1. Hub and Spoke Labs**](https://github.com/kaysalawu/azure-network-terraform/tree/main/1-hub-and-spoke)
 - [1.1. Secured Hub and Spoke - Single Region](https://github.com/kaysalawu/azure-network-terraform/tree/main/1-hub-and-spoke/1-hub-spoke-azfw-single-region)
@@ -25,7 +25,7 @@ This is a collection of terraform codes for deploying Azure networking topologie
 
 This is a collection of terraform codes for deploying GCP networking topologies.
 
-**GCP Network Topology - [Terraform Examples](https://github.com/kaysalawu/gcp-network-terraform)**
+**GCP Network Topology - [Home](https://github.com/kaysalawu/gcp-network-terraform)**
 
 [**1. Blueprints (Classic)**](https://github.com/kaysalawu/gcp-network-terraform/tree/master/1-blueprints-classic)
 
