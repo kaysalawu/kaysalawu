@@ -39,5 +39,3 @@ This is a collection of terraform codes for deploying GCP networking topologies.
 [**2. Blueprints (NextGen)**](https://github.com/kaysalawu/gcp-network-terraform/tree/master/2-blueprints-nextgen)
 
 Work in progress...
-
-[**3. Blueprints (Hybrid)**](
