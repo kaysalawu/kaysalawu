@@ -35,19 +35,24 @@ This is a collection of terraform codes for deploying Azure networking topologie
 
 ## GCP
 
+This is a collection of terraform codes for deploying GCP networking topologies using latest networking features.
+
+Work in progress...
+
+## GCP (Classic Networking)
+
 This is a collection of terraform codes for deploying GCP networking topologies.
 
 **GCP Network Topology - [Home](https://github.com/kaysalawu/gcp-network-classic-terraform)**
 
-[**1. Blueprints (Classic)**](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic)
+[**1. Blueprints (Classic)**](https://github.com/kaysalawu/gcp-network-classic-terraform)
 
-- [A. Hub and Spoke with HA VPN to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/a-standard)
-- [B. Hub and Spoke with Appliance IPsec Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/b-vyos-ipsec)
-- [C. Hub and Spoke with Appliance GRE Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/c-vyos-gre)
-- [D. NVA with VPC Peering to Spokes](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/d-nva-peering)
-- [E. NVA with Shared VPC](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/e-nva-shared-vpc)
-- [F. Simple Hybrid Connectivity](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-blueprints-classic/f-simple-hybrid)
+- [A. Hub and Spoke with HA VPN to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/a-standard)
+- [B. Hub and Spoke with Appliance IPsec Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/b-vyos-ipsec)
+- [C. Hub and Spoke with Appliance GRE Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/c-vyos-gre)
+- [D. NVA with VPC Peering to Spokes](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/d-nva-peering)
+- [E. NVA with Shared VPC](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/e-nva-shared-vpc)
+- [F. Simple Hybrid Connectivity](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/f-simple-hybrid)
 
 [**2. Blueprints (NextGen)**](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/2-blueprints-nextgen)
 
-Work in progress...
