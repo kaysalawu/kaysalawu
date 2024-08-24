@@ -37,6 +37,8 @@ This is a collection of terraform codes for deploying Azure networking topologie
 
 This is a collection of terraform codes for deploying GCP networking topologies using latest networking features.
 
+**GCP Network Topology - [Home](https://github.com/kaysalawu/gcp-network-terraform)**
+
 Work in progress...
 
 ## GCP (Classic Networking)
@@ -53,6 +55,4 @@ This is a collection of terraform codes for deploying GCP networking topologies.
 - [D. NVA with VPC Peering to Spokes](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/d-nva-peering)
 - [E. NVA with Shared VPC](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/e-nva-shared-vpc)
 - [F. Simple Hybrid Connectivity](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/f-simple-hybrid)
-
-[**2. Blueprints (NextGen)**](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/2-blueprints-nextgen)
 
