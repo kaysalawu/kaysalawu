@@ -37,17 +37,17 @@ This is a collection of terraform codes for deploying Azure networking topologie
 
 This is a collection of terraform codes for deploying GCP networking topologies using latest networking features.
 
-**GCP Network Topology - [Home](https://github.com/kaysalawu/gcp-network-terraform)**
+[**Blueprints**](https://github.com/kaysalawu/gcp-network-terraform)
 
-Work in progress...
+- [A. Hub and Spoke with HA VPN to On-premises](https://github.com/kaysalawu/gcp-network-terraform/blob/main/3-labs/a-hybrid)
+- [B. Hub and Spoke with Appliance IPsec Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-terraform/blob/main/3-labs/b-standard/README.md)
+
 
 ## GCP (Classic Networking)
 
-This is a collection of terraform codes for deploying GCP networking topologies.
+This is a collection of terraform codes for deploying GCP networking topologies using classic networking features.
 
-**GCP Network Topology - [Home](https://github.com/kaysalawu/gcp-network-classic-terraform)**
-
-[**1. Blueprints (Classic)**](https://github.com/kaysalawu/gcp-network-classic-terraform)
+[**Blueprints (Classic)**](https://github.com/kaysalawu/gcp-network-classic-terraform)
 
 - [A. Hub and Spoke with HA VPN to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/a-standard)
 - [B. Hub and Spoke with Appliance IPsec Tunnel to On-premises](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/b-vyos-ipsec)
@@ -56,3 +56,13 @@ This is a collection of terraform codes for deploying GCP networking topologies.
 - [E. NVA with Shared VPC](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/e-nva-shared-vpc)
 - [F. Simple Hybrid Connectivity](https://github.com/kaysalawu/gcp-network-classic-terraform/tree/master/1-labs/f-simple-hybrid)
 
+
+## AWS
+
+This is a collection of terraform codes for deploying AWS networking topologies.
+
+[**Blueprints**](https://github.com/kaysalawu/aws-network-terraform)
+
+- [A. Transit Gateway Hub and Spoke - Single Region](https://github.com/kaysalawu/aws-network-terraform/blob/main/3-labs/a-single-region)
+- [B. Transit Gateway Hub and Spoke - Dual Region](https://github.com/kaysalawu/aws-network-terraform/blob/main/3-labs/b-dual-region)
+- [C. PrivateLink Chaining](https://github.com/kaysalawu/aws-network-terraform/blob/main/3-labs/c-privatelink-chain)
